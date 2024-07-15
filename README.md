@@ -1,1 +1,1 @@
-A simple API call to Ensembl with nicely formatted output using pandas
+Some simple API calls to Ensembl with nicely formatted output using pandas
